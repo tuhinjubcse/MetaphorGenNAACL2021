@@ -13,3 +13,17 @@ All preprocessed versions shared as well
 -      Preprocessed data for generator is inside /fairseq/metaphor folder . You can see bpe and idx files
 -      Preprocessed data for discriminator is inside /fairseq/metaphor-bin folder .
 
+If you want to use your own metaphor data for generator
+-     Create train and val source and target files for a finetuning seq2seq model. You can see my data format
+-     The input format has the TEXT portion to be replaced enclosed in <V>. You can emulate the same
+-     run sh preprocess1.sh and sh preprocess2.sh
+
+
+If you want to use your own metaphor data for discriminator
+-     Create train.tsv and dev.tsv in same tab seperated format 
+-     ./examples/roberta/preprocess_GLUE_tasks.sh glue_data metaphor
+
+                  To run bart model sh trainbart.sh
+                  To run roberta model sh roberta_train.sh
+
+
