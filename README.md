@@ -8,6 +8,9 @@
 -     Training and validation data for generator inside /fairseq/metaphor folder
 -     Training and validation data for discriminator inside /fairseq/glue_data/metaphor 
 
+**Change the encoder.json path to correct path in fairseq/fairseq/data/encoder/gpt2_bpe_utils.py line 131
+
+
 
 All preprocessed versions shared as well
 -      Preprocessed data for generator is inside /fairseq/metaphor folder . You can see bpe and idx files
