@@ -5,8 +5,8 @@
       pip install --editable .
       
 
-Training and validation data for generator inside /fairseq/metaphor folder
-Training and validation data for discriminator inside /fairseq/glue_data/metaphor 
+-     Training and validation data for generator inside /fairseq/metaphor folder
+-     Training and validation data for discriminator inside /fairseq/glue_data/metaphor 
 
 
 All preprocessed versions shared as well
