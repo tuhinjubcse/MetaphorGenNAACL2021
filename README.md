@@ -28,3 +28,6 @@ Training
 -     To run roberta model sh roberta_train.sh
 
 
+Inference
+-     For inference for MERMAID use inference.py
+-     You have to change WP_scorers.tsv to reflect your own coefficients (can be positive or negative anything) and also directories 
