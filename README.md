@@ -23,7 +23,8 @@ If you want to use your own metaphor data for discriminator
 -     Create train.tsv and dev.tsv in same tab seperated format 
 -     ./examples/roberta/preprocess_GLUE_tasks.sh glue_data metaphor
 
-                  To run bart model sh trainbart.sh
-                  To run roberta model sh roberta_train.sh
+
+-To run bart model sh trainbart.sh
+-To run roberta model sh roberta_train.sh
 
 
