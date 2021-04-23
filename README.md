@@ -10,6 +10,6 @@
 
 
 All preprocessed versions shared as well
-Preprocessed data for generator is inside /fairseq/metaphor folder . You can see bpe and idx files
-Preprocessed data for discriminator is inside /fairseq/metaphor-bin folder .
+-      Preprocessed data for generator is inside /fairseq/metaphor folder . You can see bpe and idx files
+-      Preprocessed data for discriminator is inside /fairseq/metaphor-bin folder .
 
