@@ -84,6 +84,7 @@ cd ../..
 python poem.py
 ```
 
+      Metaphor detetection model : https://drive.google.com/drive/folders/1j6HNNBc_Ess-FSSbZNwA_09WOvE2C1jf?usp=sharing
 Please put the poetry corpus file `gutenberg-poetry-v001.ndjson` into path `data/poem`
 
 In the code `preprocess.py`, `stanfordcorenlp` is needed. Please download http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip and unzip to `data/corenlp`.
