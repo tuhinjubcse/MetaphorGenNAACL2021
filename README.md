@@ -33,3 +33,6 @@ Training
 Inference
 -     For inference for MERMAID use inference.py
 -     You have to change WP_scorers.tsv to reflect your own coefficients (can be positive or negative anything) and also directories 
+
+
+Test and Gold coming shortly. Withheld till ACL deadline for anonymity
