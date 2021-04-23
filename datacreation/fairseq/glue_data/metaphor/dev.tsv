@@ -1,0 +1,883 @@
+index	sentence1	sentence2	label
+0	Mr Duncan Nichol wants to 	separate the emergency from the non-emergency work .	entailment
+1	Scientists often cannot 	date precisely archeological or prehistorical findings	not_entailment
+2	Also , people are 	getting lazier each year and they will need a form of transportation to move them around .	not_entailment
+3	One step after the other they will turn to 	isolation , live and work outside society and thus a failure of life .	not_entailment
+4	Some nice results 	emerged from the study	entailment
+5	Life 	becomes enjoyable as long as people appriciate it .	not_entailment
+6	We 	sustained the diplomatic negotiations as long as possible	not_entailment
+7	Quietly he unwrapped the covering paper , then paused , as some instinct 	made him check again .	entailment
+8	 	add six add six	entailment
+9	many valuable nutrients are 	refined out of the foods in our modern diet	not_entailment
+10	The standard method of 	producing task descriptions is to write all the separate sub-tasks at various levels on cards and then assemble the cards in a network .	entailment
+11	You don't 	look your age!	not_entailment
+12	His playing 	stamps him as a Romantic	entailment
+13	Well I 	hope not I mean no he wo n't be able to drive	not_entailment
+14	All too often , it seems that the coupling of an as yet imperfect scientific understanding to policy-making is tenuous ( 	see Table 9.2 ) .	not_entailment
+15	I I I I 	want a straw .	not_entailment
+16	The whole item was 	allowed no more than four times that in the BBC 's Sunday evening news broadcast at 6.30 .	entailment
+17	That aside , the last year has 	brought little respite from their own , very personal , crisis .	entailment
+18	We 'll 	go down together , lad .	not_entailment
+19	Everyone 	helped out during the earthquake	not_entailment
+20	The two human factors which can be unambiguously 	measured are age and sex .	entailment
+21	Just before the court was due to 	hear the request her solicitor received a cheque for Ì´ï¿½2,400 .	entailment
+22	Perhaps he just 	means that they like the sound of my voice ?	not_entailment
+23	Last week he 	promised to supply us with a written explanation of the way his company had treated Debbie , but it never arrived .	not_entailment
+24	We 'll 	try one to one .	not_entailment
+25	The disaster was all the more stunning because people had come to 	assume that such things did n't happen .	entailment
+26	One Mr Clarke can not duck away from if he 	wants to avoid a second Winter of Discontent ..	not_entailment
+27	The product were much cheapter and 	seemed better than buying at stores .	not_entailment
+28	 	Come on Kimmy !	entailment
+29	And it 's a I mean you 	get four hundred people on the dance floor in the Sugar House .	entailment
+30	I also think that there will not be fewer cars in twenty years because I think that many people in many socities are very 	attached to the car .	entailment
+31	Angela 's taking a few days off she has n't been well , he 	said , easily .	not_entailment
+32	 	Putting it as politely as he can , Mr Tyson said the whole affair Ã¢Â€Â˜ encouraged him to return to paid employment .	entailment
+33	A good suit was a working model 's uniform Ã¢Â€Â” Paula now bought two each season and 	wore them with perfectly matching accessories , hat , bag and shoes .	not_entailment
+34	I 'm not 	exaggerating .	not_entailment
+35	The products of a conflict , as well as its residues , may seem incomprehensible insofar as they 	differ from the original intentions of any of the combatants .	not_entailment
+36	You might have 	assumed this was the police bluffing and bullying .	entailment
+37	Many psychological theories 	refer to faulty parent-child relationships , such as abnormal experiences in early childhood having a lasting effect and influence on personality .	entailment
+38	Now he steps out on beer-stained carpets and decaying floor-boards , but the conviction 	remains as strong .	entailment
+39	So a part of the argument switches to the kind of incinerators you allow while industry is 	forced to clean itself up .	entailment
+40	Bags that were n't that have 	come over there and need a recount Kerry !	entailment
+41	Life is short as they 	say , so make use of it .	not_entailment
+42	The fact is that I have a vacancy 	arising for a couture model .	entailment
+43	He 	declared that he was innocent	not_entailment
+44	Straightening up beside the dog , he looked where she was looking , and 	blinked .	not_entailment
+45	Property : Houses that are 	going , going , gone : Fed up with trying to sell , more people are auctioning their home instead .	entailment
+46	Dirty grey clouds tumbled across the sky above the slate roof , now the only thing that shone , 	glazed with rain .	entailment
+47	He sees them as not only strengthening small communities , but also as actually beginning to 	reverse the population flows from the countryside to the towns .	entailment
+48	He had to 	appear in court last month	not_entailment
+49	The white man told the askaris to take my animal after I had 	offered to exchange it .	not_entailment
+50	But at least I was not trying to 	stand completely outside this life with my little notebook .	entailment
+51	the infection 	spread	not_entailment
+52	Puzzles 	remain , even though we can be certain of the rudiments of the story .	entailment
+53	It 	made her feel strong , invincible almost , and just a tiny bit as if she had drunk too much wine .	entailment
+54	I 	said oh come on , we might as well go down and have a look .	not_entailment
+55	Drive carefully--the wet road 	reflects	not_entailment
+56	To quench is more than to refresh although our 	lying , lascivious eyes tell us the two are the same .	entailment
+57	His mind 	groped to make the connection	entailment
+58	The mountain range 	divides the two countries	not_entailment
+59	I had to spend tones of time to study to 	pass it , simultaneously , I worked hard as a new position which I did not have enough experience .	not_entailment
+60	my brain is 	swimming after the bottle of champagne	entailment
+61	look 	round the front room , then they looked round the , the garden .	not_entailment
+62	And an important factor that young s tend to 	explore life more , try new experiences , go places they never visited .	entailment
+63	But the regulatory functions over the food industry , now 	split between MAFF and the Department of Health , would transfer to a new Food Standards Agency .	entailment
+64	You do n't 	look well , you 're not right , I can see , cos you do n't look well .	not_entailment
+65	our new colleague 	relaxed when he saw that we were a friendly group	not_entailment
+66	The liquid 	fills the container	not_entailment
+67	I 	attest this signature	not_entailment
+68	And he concludes , of all the warnings that the inner city has to offer for the direction British society is 	taking , this is perhaps the most sinister .	entailment
+69	In some cases Labour 's quangos merge existing ones , or 	replace well-established bodies .	entailment
+70	All sorts of things seem to have 	happened while you have been away this time .	not_entailment
+71	 	Go on , you do lovely smiles .	entailment
+72	So the electrons want to move inwards but can not because the ions 	hold them back by virtue of their electrostatic attraction .	entailment
+73	It is the doctor that 	provides the remedy .	entailment
+74	The female soil 	possessed and misused by the masculine force of the Spanish invaders .	entailment
+75	Initially the analyst does all the work , 	leading the user towards a system he thinks is right for the business .	entailment
+76	This tendency explains that it is better to 	focus on a specific subject than to have broad knowledge of wider subjects .	entailment
+77	For example , on high policy common opinion said that there was nothing for it but to 	stay in the ERM .	entailment
+78	A lot of my friends are 	pleased that the company is doing the job they are doing .	not_entailment
+79	Smoothly Adam explained , The responsibility must clearly 	rest m only one area .	entailment
+80	Second , as technology is sophisticated , specialized knowledge is mandatory to 	protect it as well .	entailment
+81	 	Come to think of it , neither hunger nor randiness hits quite the spot .	entailment
+82	I disagree with the idea of a society 	formed by selfish young people .	entailment
+83	As I wrote above , most advertisements are made by true professional creaters and looking , sounding , 	entertaining really good .	not_entailment
+84	Nine out of 10 are routine calls , many of which could be 	carried out by mini cabs .	entailment
+85	I 	mean I did have some of the boxes in there until I sort of , thought while I was sorting things out .	not_entailment
+86	The life does not have to be a special one such as celebrities 	s or politician s .	not_entailment
+87	They were beginning to attract a penumbra of gallery-goers , as though they were offering a 	guided tour .	not_entailment
+88	I can't 	buy this story	entailment
+89	Consequently , they need to spend more time in 	participating in communities .	not_entailment
+90	We can not 	rid ourselves of it .	not_entailment
+91	As the Rallye droned towards the lighthouse on the tip of Cap Camerat , Miranda felt as if she were 	breathing the air of the gods .	entailment
+92	Pattern cutters , fitters , 	sewing hands and their assistants all worked at an incredible speed .	not_entailment
+93	Dalgliesh got out of the Jaguar and 	tried to extricate him from the pushchair , but the anatomy of the chair momentarily defeated him .	not_entailment
+94	More and more people are populating the earth , and many of those people will need to 	buy a car at a certain point in their life .	not_entailment
+95	You need to 	understand what your clients expectations are beforehand , says Graham Harrison of Bristol and West .	not_entailment
+96	I stared at Jackson Chatterton , and at last sensed the drama that 	lay behind his big calm presence .	entailment
+97	It would further 	naturalise and legitimise the evolving skeletal form of Palestinian independence .	entailment
+98	Equal opportunity in education and employment has not 	made science any more popular with women .	entailment
+99	Her face 	burned with the shame of it .	entailment
+100	Less happily , but for the same reason , repossessed houses are often 	auctioned .	not_entailment
+101	A standard contract which 	covers conditions of attendance and an agreement to complete various assignments between group sessions is signed by each participant .	entailment
+102	This scientific method I think it can be 	applied to every field of culture and maybe to lifestyles .	not_entailment
+103	The English operative who was 	guarding Trimmler has taken off .	not_entailment
+104	Finally , i think being a risky man it is not good due to the risky situations that he 	faces during his life .	entailment
+105	But it should be possible to create and enforce enough common rules to prevent the absurd see-sawing of industrial relations legislation we have 	seen since 1969 .	entailment
+106	He 	anticipated some of the enthusiasms of John Cage , whom he first met in 1941 .	not_entailment
+107	You 're not supposed to 	say but	not_entailment
+108	Moral autonomy is concerned with individuals not with groups ; a conception of autonomy which depends upon group membership 	displays its own contradiction .	entailment
+109	I 	mean , not all our customers are absolutely stupid .	not_entailment
+110	This market sensitive dispute has taken place as President Bush and Congress continued to 	spar on a primary cause for government borrowing Ã¢Â€Â” the budget deficit .	entailment
+111	The immigrants were quickly 	absorbed into society .	entailment
+112	It s too difficult to 	move without a car , but that does nt matter because cars are still cheap in the US .	not_entailment
+113	You 're 	going to an awful lot of trouble for me love .	entailment
+114	Do n't 	sound a lot of weight but	entailment
+115	It would therefore be reasonable to 	consider whether children find it offensive to be treated like children .	entailment
+116	We 	co-opted the independent minority tribes by pulling them into the Northern Alliance	not_entailment
+117	He fearlessly 	attacked convention , which caused problems when he pitched into established reputations .	entailment
+118	As many people 	know , cars are very convinient and usefull machine .	not_entailment
+119	One is to 	acquire a human asset multiplier for each level of staff .	entailment
+120	Three reasons can be thought of when 	thinking about this issue .	not_entailment
+121	think before you 	act	not_entailment
+122	He 	floated the logs down the river	not_entailment
+123	There is some property 	moving but	entailment
+124	In terms of databases on hazardous wastes , attention has already been drawn to the waste disposal plans 	prepared by WRAs .	entailment
+125	Muldoon rose immediately from his enormous black leather chair to 	greet him , coming from behind the vast desk with hand outstretched .	not_entailment
+126	The cold 	pierced her bones .	entailment
+127	This action is very good for 	experiencing somr thing in that place .	not_entailment
+128	 	Invited to .	not_entailment
+129	The water shortage 	means that we have to stop taking long showers .	not_entailment
+130	But I 	think everything in moderation , but you do n't eat as much butter now as what you used to .	not_entailment
+131	Will he 	vouch for me?	not_entailment
+132	I 	sensed the real meaning of his letter	not_entailment
+133	This vaccine will 	guard you against infection .	entailment
+134	Ã¢Â€Â˜ I thought you 'd never 	ask .	not_entailment
+135	The churches 	built on wool : Angela Lambert enjoys the riches at the heart of East Anglia	not_entailment
+136	Why , what you 	got on ?	entailment
+137	Some excuse would be made for not 	telling him .	not_entailment
+138	Actually it must be quite interesting 	looking at the development of language as time goes on .	entailment
+139	And then I 	asked my father on Tuesday to remind him and he said , he 'd already said he 'd fetch them in on Tuesday .	not_entailment
+140	He 'd been 	pressing me to come down here for a long time .	entailment
+141	I want to talk to the Masai man you are 	holding .	entailment
+142	we 	went er round Mollyrange to get to you know the	entailment
+143	For example , it is a tradition to get your drivers 	license when you turn the age of 16 in America .	not_entailment
+144	It does not 	matter if the cartoon is insulting to men .	not_entailment
+145	She lives alone after her husband 	died , but she is so energetic and vigorous , and seems to enjoy her life very much .	not_entailment
+146	Is Frick one of these guys ? asked the DDA , remembering the name 	picked up by Adam in New Orleans .	entailment
+147	At least I 'll give you , who 's 	gon na bet	not_entailment
+148	If we 	agree that in that case women should be embraced by the liberty principle then so should children .	not_entailment
+149	And since they 've 	refused repeatedly to have a public inquiry into what is going on there we 're not certain of the safety of what 's coming out .	not_entailment
+150	I 	upgraded to First Class when Coach Class was overbooked	not_entailment
+151	She 'd no idea , very innocent , very er church , you 	know ?	not_entailment
+152	For example , about 100 years ago , there is a trade company 	called Suzuki Shoten in Japan .	not_entailment
+153	does n't matter I 'll , I 'll 	keep phoning .	entailment
+154	 	Hi ya	not_entailment
+155	But what was 	missing before 1147 was a clear sense of who the Franks were .	entailment
+156	Primal Scream Not a name which would 	lead you to expect self-absorbed acoustic doodlings .	entailment
+157	I 'll 	take you over to Paris and we 'll watch them in Paris on the twenty so she said , oh when ?	not_entailment
+158	And what they 've , what they 've 	got , they 've got the bar in a far bottom corner	entailment
+159	Until the time when these things happen then Mill 's disclaimer 	comes into operation .	entailment
+160	Comparing eqns ( 3.41 ) and ( 3.42 ) we 	get formula] .	entailment
+161	But the hatred they aroused 	meant that they were liable to be brutally slaughtered if captured afterwards .	entailment
+162	Common opinions were what 	got Major into difficulties in the first place .	entailment
+163	Some young people in Japan 	spend their time just running around their neighborhoods with their motorcycles , usually with a very noisy sound of that motorcycles .	entailment
+164	We should 	notice that this view is not just a flight of fancy from the loony left , the pederast lobby or children themselves .	entailment
+165	When New Zealand last toured Ireland in 1978 Leinster were 	ignored .	entailment
+166	The service was 	facing its biggest crisis since the ambulances came to a stop in the Winter of Discontent ten years ago .	entailment
+167	But innovative things can 	open new markets from nothing !	entailment
+168	Do you want me to 	write that on ?	not_entailment
+169	But while the DTI would override the Treasury , a new Ã¢Â€Â˜ powerful Department of Consumer Affairs would 	antagonise the DTI .	entailment
+170	Are we 	gon na get I do n't think we 're gon na get in .	not_entailment
+171	Ã¢Â€Â˜ You 	get sarcasm mainly .	entailment
+172	Well , like I say if I want to bring my family , I 've 	got to pay five pound which	entailment
+173	How did the bar 	go ?	entailment
+174	The moment the work was done he had ordered his coachman to 	drive him back to Millfield as fast as the horses would go .	not_entailment
+175	She 	captured all the men's hearts	entailment
+176	It was the only new drama series in US network TV to be 	allowed a second series this year , despite a relatively lowly 49th ranking in the ratings .	entailment
+177	What sould they be 	supposed to do more ?	not_entailment
+178	The metaphor is apt , as Palestinians regard themselves as 	engaging in a process of giving birth to their independent Palestinian state .	not_entailment
+179	Ã¢Â€Â˜ I shall be sorry to 	lose you , Paula .	entailment
+180	The plane was now moving at not much above 	stalling speed .	not_entailment
+181	As were ours , 	snapped back Sorge .	entailment
+182	The tibia 	fractured from the blow of the iron pipe .	not_entailment
+183	You can not go to any field without having the necessary knowledge and skills , as well as attitudes , that 	compromise such field .	not_entailment
+184	Second , a tour guide will help you 	deal with the new culture and language .	entailment
+185	As Davies ( 1981 ) has 	pointed out , speech is the basic tool of the social worker .	entailment
+186	The scientists had to 	accommodate the new results with the existing theories	not_entailment
+187	Ã¢Â€Â˜ I 	felt it was so safe , they were so professional , said Mr Tyson .	entailment
+188	The statment is really general and I 	disagree with that .	not_entailment
+189	Risking the dismay of circuit engineers some theoreticians do , in fact , 	refer to eqn ( 3.35 ) as Ohm 's law .	entailment
+190	Except , mind you , the , the rough , the erm rugby club gave the band a bit of er , a rough 	seeing to .	entailment
+191	Nevertheless , most schools 	consider they are already providing equal opportunities by neutral treatment of the two sexes ( Bloomfield , 1984 ) .	entailment
+192	Ã¢Â€Â˜ There is no incinerator which completely destroys toxic wastes , Madeleine Cobbing , Greenpeace 's toxics campaigner , 	told me .	not_entailment
+193	Well they 	give you all these bloody tips and papers about what to do , to avoid this and avoid that .	entailment
+194	Entire departments can be 	set up , in health , foreign affairs , agriculture , trade , finance , education , justice , religion , information and social welfare .	entailment
+195	Their tense , edgy faces 	watched Delaney closely .	entailment
+196	They were challenging the pay now sue later principle at Lloyd 's , which says names should pay cash calls first and 	fight them later .	entailment
+197	cancel the Wednesday , cancel Wednesday , yeah , that will 	keep the days and	entailment
+198	Ã¢Â€Â˜ Shall we 	take some coffee now ?	entailment
+199	There were also some lines intended for local consumption : Higher petrol prices from the Liberal Democrats that 's not 	gon na help a rural area	not_entailment
+200	You 	know , I mean , she keeps stopping but she 's , she 's remarkable !	not_entailment
+201	Oh I think I 've 	got one .	not_entailment
+202	( The requirements of causation in the criminal law are 	discussed elsewhere . )	entailment
+203	However , the course is not punitive ; it is not 	concerned with the infliction of pain .	entailment
+204	Gary stared at her for a moment , pins spewing from his mouth and 	catching on the front of his black jersey .	entailment
+205	So whether to 	leave but that sort is waiting .	not_entailment
+206	In the past we have had cup walks , not 	runs .	entailment
+207	In the third quarter Bridgend had little difficulty in 	wiping out an 11-point deficit , Huw Bevan supporting Aled Williams 's break for their second try .	entailment
+208	Cars maker are 	chalinging each other not only in the quality , but also in the price .	entailment
+209	If we talking about advertisements of goodsproducts the first thing to do is to Know what the producer or the seller wants to 	reach .	entailment
+210	At first they 'll just want to do nothing but eat and 	sleep .	not_entailment
+211	But to allow herself to be 	dictated to in this way when she knew she had done nothing wrong was tantamount to admitting guilt .	entailment
+212	Furthermore , these girls will tend to 	go into a career with a feminine image , one which already attracts many girls .	entailment
+213	the growth in income 	translates into greater purchasing power	not_entailment
+214	You 	got it ?	entailment
+215	Not sure of the music policy , but the name 	sounds like the ingredients of a takeaway from a less salubrious Chinese .	not_entailment
+216	He 	downed three martinis before dinner .	entailment
+217	the erm that good place that 	sells secondhand er or damaged erm	entailment
+218	Systematic use of a checklist often 	reveals faults in work design such as inadequate access , visibility and labelling .	entailment
+219	The sergeant 	confirmed that that happened with bodies after a few days .	entailment
+220	To add the part-time education and training statistics to those figures does not 	improve our relative position .	not_entailment
+221	However , in the spring of 1977 an offer was made , which my son 	accepted .	not_entailment
+222	If there is a guide , we are 	reliefed when need some help in our emergincy .	not_entailment
+223	With all the pressures of education and family expectations the time that each young person 	gives to helping the communtity is not enough .	entailment
+224	They were beginning to 	attract a penumbra of gallery-goers , as though they were offering a guided tour .	entailment
+225	 	Lure it into a trap , somehow .	entailment
+226	This appropriateness of Kahlo 's aesthetic to contemporary debate has tended to remove her work from its historical context , to 	stress the collective and the cross-cultural .	entailment
+227	Well the chap 	came yesterday	not_entailment
+228	Muslims 	avoid tobacco during the day .	not_entailment
+229	The passenger 	grabbed for the oxygen mask	not_entailment
+230	Who 's coming to 	see you ?	not_entailment
+231	The gangway lamps seemed to give no light , only 	add further to the gloom of the dusk .	entailment
+232	These are sensuous pleasures at their most enjoyable when we ritualise them , but how do we 	feel when we desire them ?	entailment
+233	It s much better to have a broad knowledge pf many academics subjects than to 	specialize in one specific subject .	not_entailment
+234	are not aware of the unreality of their original pictures which is why , often in the same sentence , they 	produce these contradictions .	entailment
+235	When Lewis said to come back with him and eat there Adam had 	got a kick on the ankle from Anne and another kick when he had n't replied .	entailment
+236	And to those prices you have to 	add the boat 's running costs .	entailment
+237	Crisis in this context 	describes a period of intensive self-examination in which one 's beliefs and values are re-examined .	entailment
+238	This might be one of the reasons that youg people spend less time in community when 	compared with older people .	not_entailment
+239	Post-war reconstruction and housing programmes seemed to do nothing to prevent , and seemed even to 	encourage , a rise in crime and mental illness .	entailment
+240	 	er just maybe the size of this .	not_entailment
+241	Oh and yes a chap from Conservative Central Office rang up to say they 'd like to 	know if you would be prepared to stand for the European Parliament .	not_entailment
+242	Oh I do n't 	want to go to	not_entailment
+243	Part of the attraction of alternative cancer treatments such as the Gerson therapy is that they allow a patient to 	feel more in control of the treatment .	entailment
+244	 	Sit down here , Jamie , and I 'll make some tea .	not_entailment
+245	He 	remembered her in his will	not_entailment
+246	Someone told some cat burglar where to 	find that picture !	not_entailment
+247	Ã¢Â€Â˜ I told my son only trouble could 	come from being your pakiteng .	entailment
+248	Does n't help with the dark ceiling , that 	soaks it up does n't it ?	entailment
+249	I wished I 'd of done when I 	lost all my weight	entailment
+250	To classify all reckless killings as murder might be too broad , but the point 	remains that some reckless killings may be thought no less heinous than intentional killings .	entailment
+251	Well they give you all these bloody tips and papers about what to do , to 	avoid this and avoid that .	entailment
+252	He could n't 	look Shiva up because he could n't remember his surname .	not_entailment
+253	Cos you do n't always 	want it hot do you ?	not_entailment
+254	He 's 	gon na out with some stick !	entailment
+255	The answer is easy , but the consequance is going to be really 	devastating .	entailment
+256	He successfully 	defended rowing as an Olympic sport and in 1976 introduced women 's events , which have now expanded to six classes .	entailment
+257	Yes , I 	suppose it was .	not_entailment
+258	The beginnings are to be 	found in the diehard campaign against the Parliament Bill .	entailment
+259	I suggest you 	ask your Allies about that .	entailment
+260	The basis of recovery was then Law 's 	fighting capacities as leader .	entailment
+261	The ostentatious way of living of the rich 	ignites the hatred of the poor	entailment
+262	To instil or 	reinforce responsible drinking attitudes and behaviour .	entailment
+263	The roofer began to 	gutter the buildings .	not_entailment
+264	Mud was 	sucking at her feet	entailment
+265	From these three points that I have stated above , I agree that young people nowadays do not 	give enough time to helping their communities .	entailment
+266	Oh I 've 	got a house in .	not_entailment
+267	But I m sure about that people could 	enjoy better life after getting old thant the yonger generation .	not_entailment
+268	In this way and in this case an advertisement make a product 	seem much better than it really is .	not_entailment
+269	The only effective remedy is to 	install hardened valve seats or a replacement cylinder head , both expensive options .	not_entailment
+270	Nowadays , HONDA has successed his challenging spirits and tried many new things , such as making robot 	called Asimo , investing hydrogen electric motor car etc .	not_entailment
+271	Not like young people who 	spends between forty and fifty hours each week at work .	entailment
+272	One reason for wich I 	believe that brave people are likely to be successful is that they normally love challenges , and challenges are opportunities to learn .	not_entailment
+273	" You 	said you 'd news of Will . "	not_entailment
+274	I 'd 	love that for two or three weeks , would n't you ?	not_entailment
+275	Self suggestion in this case actually would 	increase the performance due to the image carried by the product .	not_entailment
+276	The old man 	warned the children off his property .	not_entailment
+277	In Kahlo 's painting , the figure 	falls from the fantasy world she has inhabited to the harsh bloodspattered reality of the street , literally coming down to earth .	entailment
+278	In conclusion , I agree that most adverisements make products seem better than they really are , but I think that sometimes people are able to 	understand that .	not_entailment
+279	She 	looked over the expanse of land	not_entailment
+280	The review 	adds : Ã¢Â€Â˜ What we now seek is a DTI which will have an equal , if not superior status , to that of the Treasury .	entailment
+281	In the centre of the room was a large wooden table 	holding a stoneware jar of dried flowers .	entailment
+282	you can 	count on me to help you any time	entailment
+283	Well our milkman , to be honest with you , it 	got to the stage where he would n't collect milk at night to collect the cash at night .	entailment
+284	The child 	drowned in the lake	not_entailment
+285	Cows were 	thought very unsightly when they were first introduced .	not_entailment
+286	He 	put a hand into a pocket of his elegant duster coat and brought out a small .22 pistol that he pointed at my face .	not_entailment
+287	With this pupluation outburst , more cars will have to be present to 	meet the needs of the people .	entailment
+288	The company that is advertisement for this brand is well 	known in my country Oman .	not_entailment
+289	Four 	add four equals eight .	entailment
+290	Yeah I 	know 	not_entailment
+291	They never 	interested in the real societies .	not_entailment
+292	that 's all something to do with 	writing that one	not_entailment
+293	Such peole 	tend to think that learning facts can be the most effective way of increasing their knowlege in a variety of subjects .	not_entailment
+294	These are not moments of thirst but nor are they causes of drunkenness ( unless one 	tries to pack all such experiences into one day ) .	not_entailment
+295	Did you 	manage to do alright ?	entailment
+296	Therefore , i would rather speacialize in one area inorder to 	shine and be known for my uniqeness in this area .	entailment
+297	society was 	infected by racism	entailment
+298	Naturally , to 	embark on such a step is not necessarily to succeed immediately in realising it .	entailment
+299	It involves nothing more than 	putting up 80-foot masts all over the land .	not_entailment
+300	I have quite a few contacts Ã¢Â€Â” people who 	knew me when I was designing for Carnega Ã¢Â€Â” and they have been very encouraging .	not_entailment
+301	One night he 	went to her house , poured paraffin through the letter-box and on to the front door , and set it alight .	not_entailment
+302	He seems 	determined to die .	not_entailment
+303	I won't 	stoop to reading other people's mail .	entailment
+304	I totally agree the statmentYoung people nowadays do not 	give enough time to helping their communities .	entailment
+305	And then he 	takes a day off Bank Holidays .	entailment
+306	And also , all academic subjects 	connect to each subject .	entailment
+307	The path 	ascended to the top of the hill .	not_entailment
+308	What , we may ask Holt , happens to the child who , dissatisfied at home , seeks in vain for guardians who would 	suit him ?	entailment
+309	I'm 	expecting a full explanation as to why these files were destroyed	not_entailment
+310	 	Look at me when you 're talking to me I ca n't hear you .	not_entailment
+311	Young children ought merely to have things 	shown to them as they are , or they get puzzled and ask question after question .	entailment
+312	On conclusion , is better not to 	spend all you efforts on only one topic , but to study how much subjects as you can .	entailment
+313	But unfortunately , you 	know , it 's or whatever .	not_entailment
+314	When I heard of it , I thought it is good to 	challenge new things rather than only doing what I already know .	entailment
+315	There you 	go .	entailment
+316	Putting it as politely as he can , Mr Tyson said the whole affair Ã¢Â€Â˜ encouraged him to 	return to paid employment .	entailment
+317	Now that buses are no longer designed to enhance the streets they serve , Manchester has a chance to 	make a fresh start with its trams .	entailment
+318	I did n't 	think you could .	not_entailment
+319	The foremost business philosopher in America Jim Rohn said , To survive in the twentieth century you have to 	know more than one skill .	not_entailment
+320	The process becomes demand 	driven by the user .	not_entailment
+321	He 	grows vegetables in his backyard	not_entailment
+322	The church members 	co-opted individuals from similar backgrounds to replenish the congregation	not_entailment
+323	She 	specializes in Near Eastern history	not_entailment
+324	The government sponsored Meadowell Initiative 	makes noises in the north of the estate but does pitifully little , painfully slowly .	entailment
+325	If his father could have 	found out what flight they were coming on , the police certainly could .	not_entailment
+326	This system currently runs in dBASE II and contains in excess of 3000 items of professionally 	assessed information on major hazards coded into some 24 separate fields .	entailment
+327	He 's 	loaded ai n't he ?	entailment
+328	Again , women well know what it is like to be treated as children and they 	find it offensive .	entailment
+329	The week at the spa 	restored me	not_entailment
+330	He is right to 	pursue this line .	entailment
+331	Oh I 	see , these are his stairs .	entailment
+332	What Andrew Motion 	presents us with here is a static and humourless mood-piece filled with over-elaborate imagery .	entailment
+333	I tell you what 	make trestle tables are so expensive are n't they ?	not_entailment
+334	Or his nature and luck had 	complied for him .	entailment
+335	You should 	acquaint yourself with your new computer .	not_entailment
+336	Obviously there could be some exceptions of people that , for different reasons , do nt 	found their own way .	entailment
+337	It plays a key role in 	keeping city streets on the move and is even the object of the best modern designers ' desire .	entailment
+338	You 	know .	not_entailment
+339	Like 	losing the singnal .	entailment
+340	For example , if some body creates a treatment for Canser and another one does his regular work who is 	succeede ? .	not_entailment
+341	And I 'd also like you to sign this document , Adam 	added , which absolves me and STG from any further responsibility once Paul Littlejohn has been substituted .	entailment
+342	I 	agree with the sentence that most advertisements and most negative spots make products seem much better than they really are .	not_entailment
+343	The doctor 	treated my broken leg	not_entailment
+344	The science boys seemed to 	possess few doubts or uncertainties , they offered clear-cut answers .	entailment
+345	The bulk of the blame for all that is 	placed on British Rail , which knowingly permitted these things to continue .	entailment
+346	Then he pressed another knob and a big toy doll in his office window 	dropped its trousers .	entailment
+347	It is cheap to 	take trips without a tour guide and fun to get to know the local residents .	entailment
+348	a bath and I was 	soaking in there for ages .	entailment
+349	We 	exploded the nuclear bomb	not_entailment
+350	Lastly , the family structure has been 	changing .	not_entailment
+351	I can't 	help myself--I have to smoke	not_entailment
+352	To reach want you want to 	reach you need to forget sometimes friends , sports , and all other things that could help enjoing life .	entailment
+353	She did n't even 	look human .	not_entailment
+354	She 	circulates among royalty .	entailment
+355	They seem to think that you can ask a businessman what his requirements are and 	get an answer that amounts to a draft system specification .	entailment
+356	The sun 	melted the ice	not_entailment
+357	She 	made a kind of progress up the Palladian marble stair .	entailment
+358	Some of them , who are likely grown up with strong ideals and a steady sense of tradition , still continue to 	putting their efforts to helping their community .	entailment
+359	We 'll 	call in , that will be better than phoning at least you know you know you 're gon na get there .	entailment
+360	He 	finished the dishes	not_entailment
+361	He had to 	admit that this particular client hardly added to the general decorative smartness of the place .	entailment
+362	Oh ! she squealed as light 	dawned .	entailment
+363	We 	preserve these archeological findings	not_entailment
+364	As 	mentioned above , the logic of the design may not be the optimal basis if the way the operator thinks and acts is different .	entailment
+365	Most significantly , it incorporates a shortest path algorithm which 	uses the road network to find optimal routes between user-defined start and end nodes .	not_entailment
+366	Through it , Palestinians are struggling on a daily basis to shake off Israel 's authority and to 	construct their own .	entailment
+367	Students will more likely 	understand a phenomena by a short experiment rather than by a long and perhaps boring lecture .	not_entailment
+368	I said oh come on , we might as well 	go down and have a look .	entailment
+369	The statesman to whom he was 	referring was Peel .	entailment
+370	She 	laughed with him .	not_entailment
+371	The government will help your son , but he must not say that he 	killed the white man on purpose .	not_entailment
+372	Ã¢Â€Â˜ Did you 	accept any gifts ?	not_entailment
+373	The little circlets of flat leaves born at regular intervals on the jointed stems 	serve to distinguish this plant from others in the Carboniferous coal-shales. 8 cm long .	entailment
+374	But the ring disbanded , once more because of Stalin 's penchant for secrecy , after Moscow tried to 	bypass Roessler and go direct to his Number Two .	entailment
+375	We could 	get lost in the place we are traveling , like me -- I was lucky though , especially in foreign country that is a big problem .	not_entailment
+376	A glimpse of the impact of the 1980ï¿½_ï¿½_ï¿½ï¿½1 riots at this level can be 	achieved through two important debates in Parliament .	not_entailment
+377	She wanted to 	ruffle his composure .	entailment
+378	By those fights , public property could be 	destroyed , or other people might get injured too .	not_entailment
+379	Yep , 	thank you very much .	not_entailment
+380	Oh you mean , they 're still 	getting Moscow 's	entailment
+381	Erm sometimes if he 's been out very very late and I 'm still up and he 's 	come home after a heavy night drinking .	not_entailment
+382	We 	sustained ourselves on bread and water	not_entailment
+383	it , and you can 	relax in these	entailment
+384	No , but you also like 	playing with fire .	entailment
+385	The children were 	clapping to the music	not_entailment
+386	and when i 	say improvement i mean in yourself .	not_entailment
+387	He 	seemed uneasy .	not_entailment
+388	The choice of locations need not be for permanent bases , but can also include dynamic repositioning of units as circumstances 	dictate ( Kolesar and Walker 1974 ) .	entailment
+389	Conducive to 	tripping about !	entailment
+390	He 	feels that Keyser 's problems were hastened by an unwise acquisition .	entailment
+391	Well We 've got to 	see what Mr says first wo n't we ?	entailment
+392	The yen 	appreciated again!	not_entailment
+393	Life becomes enjoyable as long as people 	appriciate it .	entailment
+394	I was out with erm an nephew last night and I 	mean it was n't icy but it was sort of getting late and it was cold .	not_entailment
+395	In addition , I can 	understand what happened I , environment , and earth thorough the science aknowledgements .	not_entailment
+396	Thousands of Montenegrins , many in national costume , waited at the quayside in Bar for the Italian warship that would 	bring him home .	entailment
+397	Next summer we are 	going to Japan were my wife spent a whole year learning Japanes during an international exchange program .	not_entailment
+398	He 	claimed his suitcases at the airline counter	not_entailment
+399	Are we gon na get I do n't 	think we 're gon na get in .	not_entailment
+400	Even if it does nt take a law to try to change people s awareness , I can not 	come up with another option .	not_entailment
+401	I was also half drunk , and thus filled with the Dutch courage 	offered by Mama Sipcott 's worst white wine .	entailment
+402	 	Save you , save you carrying them .	entailment
+403	Well ring her up and 	see .	entailment
+404	E VEN at this late hour , psephology , demographics and luck suggest that the Tories could still 	emerge as the biggest single party in a hung Parliament .	entailment
+405	Then , from behind me , an unfamiliar voice sounded : Oh , 	ring my bells .	entailment
+406	To 	quench is more than to refresh although our lying , lascivious eyes tell us the two are the same .	entailment
+407	You have to 	help me , Tom .	not_entailment
+408	Whereas the , the , the , you , you could you could , you could 	fit sixteen , seventeen hundred .	entailment
+409	 	Thank you .	not_entailment
+410	Ã¢Â€Â˜ Can I have a little time to 	think it over ?	not_entailment
+411	As for myself , I try to get 	involved in pro bono activities , too .	not_entailment
+412	PEOPLE tend to 	look vague when you mention Poitou .	entailment
+413	Were unseen eyes 	watching them ?	not_entailment
+414	Penny , sounding childishly , sullenly 	determined , broke into her mother 's thoughts .	entailment
+415	And they 	said it was gon na be a difficult birth and that cos	not_entailment
+416	Last but not least , 	trying new things helps you to get more expeirnce and self-cofidence .	not_entailment
+417	The boy looked at her and uncontrollable tears suddenly 	filled his eyes .	entailment
+418	I carried her luggage to the yard , noting that even Ellen 's strident feminism 	evaporated in the face of two heavy bags and tropical heat .	entailment
+419	I 	missed the concert	not_entailment
+420	They wo n't 	plan to supply the US market from imports .	entailment
+421	Forster 's breathing 	whistled out of the one-way valve .	entailment
+422	He was 	thinking what is the helpful computer programms that could the humanity to be better .	not_entailment
+423	He 	eased himself into the chair	not_entailment
+424	Yeah I 	like this too .	not_entailment
+425	But the vaporous presences that float through this slender and anaemic first novel by a notable poet would 	appear to support the claim .	not_entailment
+426	And we can 	browse and	entailment
+427	I 	mean you could you could	not_entailment
+428	It 's only round the corner from her is n't it 	mum ?	not_entailment
+429	The 1989-90 season , which started this month , 	brought another new prime-time western series , ABC 's Young Riders , which tells the story of the Pony Express .	entailment
+430	That allowed also my parents to 	spend the time they earned in some other activities , like having hobbies , or developing their personal interests .	entailment
+431	They held their line and 	competed hard in midfield , damping down Oldham 's initial verve and preparing themselves for more of the same in the second half .	not_entailment
+432	Had she not been so downhearted Ruth would have 	enjoyed herself .	not_entailment
+433	The positive sense of the integration path is 	defined relative to the positive current direction according to the usual right-hand convention .	not_entailment
+434	I 've 	changed my mind , she said .	entailment
+435	No , I 	reckon , there was , they reckon between a , a thousand and eleven hundred for a night , you know .	not_entailment
+436	Although I know that they are selfish and ridiculous opinions but that is why i beleive young people nowdays do not 	give enough yimr y	entailment
+437	For the nuclear element in electricity privatisation is the coping stone on which the flotation plans are 	based .	entailment
+438	The footpath that runs with the burn is not one of those carefully waymarked and 	leafleted by the Forestry Commission .	not_entailment
+439	Adam 	stopped and shook his head .	entailment
+440	It seems both ways are equally 	valued , though in fact it is not same value for me .	entailment
+441	 	Standing at traffic lights a Koenig-designed Jumbo is , save for the chatter inside , completely silent .	entailment
+442	In his eagerness to depict the cloudy psychology of an adolescent , Motion has forgotten to 	give the boy a personality .	entailment
+443	He did not loosen his links with the athletes when 	projected upwards into the Presidency .	entailment
+444	Property : Do n't 	let yourself in for trouble Choosing the right agent is essential if you want to rent your property .	entailment
+445	Her remarks 	confused the debate .	not_entailment
+446	Television had 	postponed Manchester United 's scheduled visit to Anfield so it could be shown live on 22 December , the longest night .	entailment
+447	Piles of ruddy-brown ash 	lay heaped on the floor .	entailment
+448	I 'm not afraid of being 	hurt .	not_entailment
+449	Drink : Desire in search of a name : Do the French have the mot juste to describe the desire for a 	reviving drink ?	entailment
+450	They 're 	getting six hundred like .	not_entailment
+451	in the world of the work if you have specific knowledge you will have more difficult to find a job than a person who have 	broadn knowledge .	entailment
+452	The headlines 	flashed on the screen	not_entailment
+453	Holden 's 64th-minute free-kick 	clattered the wall and the ball fell to Henry , who drilled a low shot from more than 30 yards inside Lukic 's right-hand post .	entailment
+454	But these themes are always interspersed with more fanciful ones : 	grimacing masks , weird animals , exuberant abstract patterns .	entailment
+455	You 	lose the gift which the will would have made .	entailment
+456	I did n't realize it at the time but I think it 	wants 	entailment
+457	all the jobs , he said I do n't want to learn them I 've come to supervise , he said I do n't 	wan na get mucky !	not_entailment
+458	A woman's right to an abortion was 	constitutionalized in the 1970's	not_entailment
+459	And God 	knows who else .	not_entailment
+460	Ã¢Â€Â˜ I 	feel appalled by the way these professional guardians have treated us .	entailment
+461	We 	ascended the mountain .	not_entailment
+462	 	According to the experience in my past , I strong ly agree with the statement that understanding ideas and concepts is more important than learning facts for students .	not_entailment
+463	It is only too obvious that this balance between action and personal life was intimately bound up with the conditions of clandestine action and could not 	survive it .	entailment
+464	Let me pay and then we 'll have lunch together and do some 	catching up Ã¢Â€Â” unless you 're meeting someone , of course .	entailment
+465	I also 	think that there will not be fewer cars in twenty years because I think that many people in many socities are very attached to the car .	not_entailment
+466	The cost for the trip 	excludes food and beverages	not_entailment
+467	This will 	save you from going every time to somebody to help you .	entailment
+468	It is , in fact , the now redundant oil-fired electric power station that 	sits on Bankside next to the site of Sam Wanamaker 's new Globe Theatre .	entailment
+469	Half an hour after the inspector left , as if to 	prove his point , the lavatory refused to flush .	not_entailment
+470	She 	inclined her head to the student	not_entailment
+471	" Oh hell , " she 	said .	not_entailment
+472	And I was looking in the yesterday and they sell them in You Ca n't 	Go Wrong for five ninety nine for Robert .	entailment
+473	I 	say , I 'd	not_entailment
+474	If she took her poor child back to his father and 	gave her husband a second chance , she would n't need money .	entailment
+475	 	Built the factory right in the heart of the mountains .	not_entailment
+476	Writing books for children is becoming increasingly complex , as the arbiters of the modern child 's mores librarians , teachers and publishers 	lay down ever more stringent criteria .	entailment
+477	The result would be that killings were classified and 	labelled in a more refined way , but at the cost of lengthy trials and mounting legal-aid bills .	entailment
+478	She boasted a harpoon walkway , a flybridge , and , above the highest wheel-platform , an aluminium canopy which 	held a radar aerial .	entailment
+479	We are most interested in the idea of networking , 	sharing skills such as translation and using them for distance learning .	entailment
+480	"When one wonders why one is doing certain things, one should 	rationalize"	not_entailment
+481	She did not stay there long , but 	retreated from the fierce sun to the stern-cabin that she would be sharing with Ellen .	entailment
+482	I 'll 	go and collect my hat and coat !	entailment
+483	Start at one end of the ship , 	making as much noise as possible .	entailment
+484	And you 've 	got good health and everything .	entailment
+485	He or she needs 	go back to the very first stage of the other choice .	entailment
+486	In the past two months , doctors at the Regional Addiction Treatment Unit in Birmingham have 	come across five patients addicted to crack .	entailment
+487	With busy pomposity Lewis dictated it to a typist and would have 	gone on and on had he not been diplomatically restrained .	entailment
+488	He always 	wears a smile	entailment
+489	The book 	portrays the actor as a selfish person	not_entailment
+490	How many books did Georges Simenon 	write?	not_entailment
+491	Had she not been so 	downhearted Ruth would have enjoyed herself .	not_entailment
+492	do we need to 	go upstairs first ?	not_entailment
+493	She 	leaned over the banister	not_entailment
+494	Do I 	get 	not_entailment
+495	The good player 	times his swing so as to hit the ball squarely .	not_entailment
+496	The age of computers had 	dawned	entailment
+497	The view that only outstanding management could 	meet the problem was held by the Audit Commission ( 1987 ) .	entailment
+498	No 	dumping in these woods!	not_entailment
+499	To 	keep a good relationship with others can make our life great .	entailment
+500	Above all he 	restored the focus of music criticism onto the music itself .	entailment
+501	just cos you , you were 	coming out with about two hundred and fifty quid a week for working seven nights a week !	not_entailment
+502	Why , what you 	gon na buy me ?	not_entailment
+503	I 'll 	leave you to it	not_entailment
+504	Like any house that 's 	demanding , idiosyncratic , small and truly experimental , it 's in trouble $150,000 in the red , with the serious prospect of closing .	entailment
+505	This procedure 	produces a curious effect	not_entailment
+506	We 	time the process to manufacture our cars very precisely .	not_entailment
+507	What what actually does the price 	include ?	entailment
+508	The hollow barking of a dog 	came from one of the stone sheds , but there was no sign of life around the buildings .	entailment
+509	One idea can 	change our life .	not_entailment
+510	She did not 	understand her husband	not_entailment
+511	Five more incinerators currently proposed in various parts of the country will 	double capacity .	not_entailment
+512	Schools and teachers tried curriculum development to build on girls ' science interests , 	changing patterns of classroom interaction , single sex groups and classes .	entailment
+513	The only problem was if he 	corrected himself when it came , which side turning , if any , would it use .	entailment
+514	Given the extent to which geographic information management is applications driven , it is important to 	consider in some depth the characteristics of some potential application fields .	entailment
+515	And presumably whatever it was the GP had give him has had , 	upset that thrombosis again .	entailment
+516	This example also represents that it is better to 	gain a specialized knowledge than broader knowledge of many academic topics .	not_entailment
+517	But the Moray Firth experiments were only possible after the naturalist Dr David Bellamy 	helped secure a donation from the Co-operative Wholesale Society .	not_entailment
+518	If so , we are 	dealing with a more Quixotic , romantic or principled figure than some of us used to think .	entailment
+519	it 's it 's legally bigger than the Empire but the Empire can get more people in cos he 's 	got upstairs and	entailment
+520	Oh I 	see .	entailment
+521	We ai n't 	got a , just a mad man !	entailment
+522	Probation practice is not , however , solely 	concerned with the establishment of rules .	entailment
+523	Communists 	allow burial of Montenegro 's last king	not_entailment
+524	He 	staggered along in the heavy snow .	not_entailment
+525	The Central Office attitude was flexible , for outside bodies would always 	exist and could even be made use of :	not_entailment
+526	From these reasons , I 	prefer traveling by ourselves might be the best way to travel .	not_entailment
+527	Rising unemployment 	turned a lingering and growing malaise into a crisis .	entailment
+528	The justification for 	pouring out large sums without a certain return was the even greater cost of any real alternative .	entailment
+529	Someone might 	ring .	entailment
+530	Not if I can 	help it .	not_entailment
+531	The broader issue is around education and what young people are being 	taught in the classroom and at home .	not_entailment
+532	This is not an office block , nor a church although its sublime form might 	suggest that its architect was adept at designing cathedrals .	entailment
+533	Dinner at Joe's always 	involves at least six courses	not_entailment
+534	Ã¢Â€Â˜ Did you 	see him after the killing ?	not_entailment
+535	Each oar was 	tugged by several men	not_entailment
+536	Well you might as well , might n't you , and it 'll 	save you	entailment
+537	He 	flicked a piece of paper across the table .	not_entailment
+538	The International Ergonomics Association developed a general ergonomics checklist which is 	reproduced in Edholm ( 1967 ) .	entailment
+539	His new Mercedes was 	keyed last night in the parking lot	not_entailment
+540	Well I 'm 	drawing lines .	entailment
+541	each answer 	counts as three points	not_entailment
+542	The metaphor is apt , as Palestinians regard themselves as engaging in a process of 	giving birth to their independent Palestinian state .	entailment
+543	And although the supertram concept will 	spread through major cities during the next decade , Blackpool will still be alone in its use of traditional double-deckers .	entailment
+544	Bye Bye Baby 	gets away with its particular minefield thanks to the sleight of illustrator Janet Ahlberg 's hand .	entailment
+545	What little money has been recovered remains the subject of a legal tussle in the courts which may yet 	take months to resolve .	entailment
+546	they 	get permission then ?	entailment
+547	He was asked to wait and then shown into a room where a detective sergeant prepared to 	take a statement from him .	entailment
+548	They plan to 	uproot the vine that has spread all over the garden .	not_entailment
+549	He seemed a genial and indestructible landmark in the history of American music , in spite of defective hearing which had 	bothered him since the late Seventies .	entailment
+550	He said : I do n't 	think death was ever terrible to her .	not_entailment
+551	Their faces were 	clouded with sadness .	entailment
+552	The individual criminal is born so ; and this is usually 	put down to Ã¢Â€Â˜ faulty chromosome patterns , or , more vaguely , to Ã¢Â€Â˜ hereditary traits .	entailment
+553	They 	scraped a letter into the stone	not_entailment
+554	Thrusts of resistance ( mass demonstrations , resignations , tax rebellions , etc ) would 	come in crests .	entailment
+555	If you ca n't 	get it done tomorrow I 'll try and get you a Doctor so she	entailment
+556	Yeah , cos it 's being 	shared by	entailment
+557	Shrubs such as hydrangea particularly 	relish rich rations .	entailment
+558	But to allow herself to be dictated to in this way when she 	knew she had done nothing wrong was tantamount to admitting guilt .	not_entailment
+559	A quick fix clearly 	becomes unfixed .	not_entailment
+560	This is one reason why policy makers never seem to 	take account fully of the people affected by their decisions .	entailment
+561	there has to be a base for everything someone learns or it wont be 	concidered learning .	not_entailment
+562	But the vaporous presences that 	float through this slender and anaemic first novel by a notable poet would appear to support the claim .	entailment
+563	but presumably your mum can do that for , they 've 	got hundreds of people there , he 's always driving people everywhere	entailment
+564	Anyone 	considering selling by auction needs to be aware that the costs involved will be higher .	entailment
+565	This concept is very well 	illustrated when compared to how the agricultural revolution evolved as an example .	entailment
+566	They were , however , an all-White group , operating without directly 	involving parents and were generally committed to specialist care in the community .	not_entailment
+567	What should I 	wear today?	not_entailment
+568	There was an extraordinary gain of Ì´ï¿½13.4 million , 	covering the Motorway Tyres disposal and more rationalisation costs .	entailment
+569	Second , when we are 	trying a new things , we can learn how to endure without conciousness .	not_entailment
+570	As this is been 	shared by lines int it ?	entailment
+571	What was Mueller doing 	answering questions .	not_entailment
+572	Yeah cos I might I might not go up , you know , I see what Sheila 	says so	not_entailment
+573	This can 	limit young people s chances to help the community .	entailment
+574	 	Driven mad with grief by the loss of her child , she is thought to wander the streets weeping and crying out a ghostly memory of the pre-Conquest past .	entailment
+575	For instance , learning foreign language will be challenging for sure but pains we experience will 	turn into courage and we learn to be more confident and successful .	entailment
+576	This will 	get modern usage of words .	entailment
+577	 	According to this , school must provide to give a basical instruction , teaching many different subjects .	not_entailment
+578	the family need time to spend with because it s the main ting in this life and from the good family 	grow good peple .	entailment
+579	My impression is that both , young and old people 	get a lot of joy from the activites that they choose .	entailment
+580	Labour sought to turn the general election into a referendum on the NHS , 	asking voters for a mandate to reverse the changes .	entailment
+581	Moreover I do not 	see changes in culture that would cause people to buy fewer cars .	not_entailment
+582	She 	scored the clay before firing it .	not_entailment
+583	It 's not that I do n't 	want to say anything but I just do n't know what to say , John Ryan , the Welsh coach , sighed .	not_entailment
+584	Ã¢Â€Â˜ We got ta take our music more serious , he 	tells the Crickets , who remain unconvinced .	not_entailment
+585	The critics 	hailed the young pianist as a new Rubinstein	not_entailment
+586	 	Taking trips can be a learning place .	entailment
+587	This experience 	transformed her completely .	entailment
+588	 	come on Stephan its	entailment
+589	They 	tied their victim to the chair	not_entailment
+590	you do n't know anybody that 's getting 	married do you ?	not_entailment
+591	Patrick you know where I would like to go and 	look at this thing we have to	entailment
+592	we must 	exploit the resources we are given wisely	not_entailment
+593	His lack of humbug about political balance has always made him more honest than all the employees of BBC Current Affairs 	awaiting with glee the Kinnock years .	not_entailment
+594	Arsenal were 	stitched and stuffed , with no question of a fluke .	entailment
+595	I 	wish that Christmas were over .	not_entailment
+596	Also , how these should function and Ã¢Â€Â” perhaps most important of all Ã¢Â€Â” where you 	put them .	not_entailment
+597	He 	gave him a hand with a large oil drum , and then another , as Nell , tearing herself from her appointed task , dragged over a bench .	entailment
+598	In addition , I can understand what 	happened I , environment , and earth thorough the science aknowledgements .	not_entailment
+599	But when the proof 	comes it also turns out to rest on the assumption that it is already true .	entailment
+600	Madame Mattli , 	remember , is used to the best .	not_entailment
+601	It was a style Ruth had 	devised herself and Mrs Carson was delighted with the result .	not_entailment
+602	He must have 	assumed that I meant trouble from the twins , for he suddenly became surprisingly loquacious .	entailment
+603	You 	know what happens , d' ya know what happens then they 'll get people	not_entailment
+604	Adam could 	remember very well but he was n't going to say so .	not_entailment
+605	He 	professed innocence but later admitted his guilt	not_entailment
+606	Each human being has specific characteristics and environmental cultures that 	bound hisher ability of the things heshe has learned .	entailment
+607	They 	bind their books in leather .	not_entailment
+608	She does n't 	stoop in and	entailment
+609	I can give an examples 	based on my personal experience .	entailment
+610	I agree with the statement that it is better for a person to have a broad knowledge of many academic subjects rather than to 	specialize in one specific subject .	not_entailment
+611	Daniel did not 	change .	entailment
+612	Well we did n't 	run out , we run out of but there was quite a few outside in the	entailment
+613	I thought she was going to be 	meeting him next weekend then ?	not_entailment
+614	Anyway , you 	got everything there , you got your garage , you know , you got double glazing .	not_entailment
+615	Adam closed the front door and 	stood there for a moment as if he could not wrench himself away .	not_entailment
+616	engineers will work to 	correct the effects or air resistance	not_entailment
+617	But in the cut-throat world of fashion up and coming designers were to be feared Ã¢Â€Â” and already Gary 's reputation was 	growing .	entailment
+618	I said try and start 	thinking about getting in there because	not_entailment
+619	Of , one of the words that she was 	talking about , people have started using wicked for a normal phrase .	not_entailment
+620	This sum will 	buy you a ride on the train	not_entailment
+621	the varnished table top 	dulled with time	not_entailment
+622	All this thinking and 	doodling will have done nothing physically to change the view outside the window , but it is a vital part of the gardening process .	not_entailment
+623	We 	used to watch the game together and I 'd suddenly see him wince in pain .	not_entailment
+624	I knew there was one here , he 	continued , meaning Liberal Democrats .	not_entailment
+625	This is because someone who 	specializes in something and does it all the time discovers ways to improve upon it and therefore becomes an expert in that field .	not_entailment
+626	My personal experience support me 	stating hat .	not_entailment
+627	For example , it 	happened when I went to germany with my family by not a tour .	not_entailment
+628	I think the category of young people should be 	divided in different groups .	entailment
+629	Second thing there are mostly 	sopping malls and supermarkets every where .	not_entailment
+630	Up until that news 	hit the Committee , Don had won the day with his UK Vehicle Division proposals .	entailment
+631	No , 	working till twelve .	not_entailment
+632	She 	likes to read Russian novels	not_entailment
+633	For this reason they can not 	cope with climates having greatly extended winters .	entailment
+634	One is that using car could 	harm the earth because of CO2 that car produce .	entailment
+635	People people were 	running away from you .	entailment
+636	He makes a firm proposal that the age of majority should be gradually 	reduced to 10 years , and remarks :	entailment
+637	Ì´ï¿½45,000 was the asking price and I was not 	surprised that the sale , so to speak , hung fire .	not_entailment
+638	And 	say what type of ward ?	not_entailment
+639	Odd , he thought , 	considering that Van Gogh himself had died mad and despairing in such surroundings .	entailment
+640	Ã¢Â€Â˜ Can you 	manage a brandy and soda ?	entailment
+641	They were , however , an all-White group , 	operating without directly involving parents and were generally committed to specialist care in the community .	entailment
+642	A Ã¢Â€Â˜ new Minister of Environmental Protection would 	operate inside the DoE .	entailment
+643	It 	seemed strange to make that argument , Mr Cook said , when it was clear the whole policy review process was designed to placate the centre ground .	not_entailment
+644	When women scientists employ such approaches , and describe their own work , as 	happened during the VISTA programme , girls are receiving double encouragement .	not_entailment
+645	She had 	booked herself a bed at a YWCA hostel for the time being .	not_entailment
+646	And then she 	said er when she	not_entailment
+647	When people plane 	travel some of them prefer to travel in agroup lrd by a tout guide , while some of them prefer to travel idividually .	not_entailment
+648	It 's we 'll 	make it in the morning , one morning and then we can come out at erm	entailment
+649	Who would like to 	make the product worse ?	not_entailment
+650	She 	raised herself on one elbow , blinking her eyes , trying to see in the darkness .	not_entailment
+651	 	Thank you very much for your time love .	not_entailment
+652	In my childhood , I was not interested in Science ; however , after I came the United States , I took chemistry class , my mind was 	opened .	entailment
+653	He 	voted for the motion	not_entailment
+654	It is 	getting quite	entailment
+655	When it comes to a TV cable I 	like Direct TV , .	not_entailment
+656	what you 	want what you want , Could be a , now .	not_entailment
+657	Ã¢Â€Â˜ I have never 	betrayed any confidence and I never will .	entailment
+658	The advent of fourth generation languages ( 4GLs ) has 	made system development much easier .	entailment
+659	Otherwise , they will 	loose costomers .	entailment
+660	The undemonstrative Miranda 	flung her arms around the instructor .	entailment
+661	That right ? he 	challenged Sorge .	entailment
+662	 	Come here !	not_entailment
+663	Mosquitoes buzzing in my ear really 	bothers me	not_entailment
+664	She 	posed as the Czar's daughter	not_entailment
+665	The lack of rain had 	depressed the water level in the reservoir	entailment
+666	 	Washing machine and cooker and fridge So of course you could have in here .	not_entailment
+667	And in any case , it might die if we do n't 	try and help it soon .	not_entailment
+668	We must 	accept that most data collection exercises will inevitably be a compromise on the grounds of cost and hence less than perfect data sets will be produced ;	not_entailment
+669	From this experience , I maintain that the more they 	take part in communities , the better their personality become .	not_entailment
+670	But you do n't 	put on weight so there .	entailment
+671	I said yeah then I get into trouble with them for not 	passing estimates to Terry and then there 's an argument .	entailment
+672	difference was n't worth 	putting that down .	entailment
+673	I 	reviewed the material before the test	not_entailment
+674	Therefore , trying new things and 	taking risks are always together , and they are something people have to follow if they want to be successful .	not_entailment
+675	I think this because there are many problems arising around the world 	regarding the price of gasoline .	not_entailment
+676	That is 	pushing it .	entailment
+677	 	Go on please .	entailment
+678	The early 1980s 	witnessed a radical change in patterns of heroin taking , alongside the global increase .	entailment
+679	If we 	go deeper into the topic , analyzing how people develop commercials and advertisements , we can identify why this can happen .	not_entailment
+680	The Paul Jones and the emotional somersaults when the music stopped and they 	came face to face for the very first time .	entailment
+681	or else we 're 	going to be late	not_entailment
+682	Ã¢Â€Â˜ It ai n't bad being aboard , he said , and held out his hand and , not before time , we 	shook .	not_entailment
+683	The second method 	tries to analyse the structure of the fossil almost as if it were a piece of engineering .	entailment
+684	Indeed it will be 	described almost entirely as a liability because the costs will be known .	entailment
+685	I m a teacher and I work in some cases without earning in order to 	help some poor people .	not_entailment
+686	The dentist 	cleaned my teeth	not_entailment
+687	I mean I did have some of the boxes in there until I sort of , thought while I was 	sorting things out .	entailment
+688	I 	disagree with this idea because specializing one particular subject brings several advantages for the following reasons .	not_entailment
+689	Students will need to be able to think and reason , computer will help to 	connect the dots .	entailment
+690	You 	speacilize in major and you find the different smaller topic in buisness , which shows you how speacilized it is .	not_entailment
+691	I 'll 	come back later .	not_entailment
+692	What effect would a deliberate attempt to 	change this image have ?	entailment
+693	 	Catch them young .	entailment
+694	Indeed , many systems of criminal law impose a mandatory sentence for murder ( or whatever the highest form of homicide is 	called in that system ) .	entailment
+695	Sentue 	takes a few moments to reply .	entailment
+696	it 's raining in time for us to go to school , 	come on	entailment
+697	Mrs Carson 	gave her maid a sharp , compassionate look .	entailment
+698	Humans can not 	live without them , it is a source of connecting this world into smaller places .	not_entailment
+699	Her strange behavior 	condemned her	not_entailment
+700	I suppose that 's what John thought , we might not 	get them done , start early and get them finished	entailment
+701	She 's 	investing it for her .	not_entailment
+702	We were helter-skelter for 90 minutes and we 	scored three great goals .	entailment
+703	Traveling by ourselves might 	cost higher , but you are able to plan the trip freely as you think and do what ever you want to make it satisfied .	not_entailment
+704	I think they 	enjoy different areas of life but with the same intensity .	not_entailment
+705	She offers her hand in the Masai manner , her head 	bowed .	not_entailment
+706	Arsenal had no choice but to 	attack as soon as the second half began .	entailment
+707	We 've gone awayfrom the days of systems 	imposed by the data processing department , this is going to be a system for the users .	entailment
+708	Surprised Kevin 	wants to , surprised Kevin wants to go .	not_entailment
+709	And I 'll 	make appointment .	entailment
+710	It always seems presumptuous to 	encroach on that self-sufficiency .	entailment
+711	It does not require to 	run the advertisement too many times a day .	entailment
+712	Smoking heroin ( 	chasing the dragon ) was one feature of the upsurge .	entailment
+713	His History , therefore , is always in process : but its teleology of a final totalization always has to be 	assumed .	entailment
+714	The explosion of knowledge in 	incresing number of knolege fields make this question more provocative .	not_entailment
+715	 	Found .	not_entailment
+716	He suddenly 	appeared at the wedding	not_entailment
+717	My life would be 	finished .	entailment
+718	do n't they until they 	get into power ?	entailment
+719	For example , a bussiness man would prefer to keep-it-safe and insure his position rather than 	jeopardizing his whole career over a simple mistake .	not_entailment
+720	And she said he has to go 	trotting to Exeter two or three times a week now .	entailment
+721	He 's not going to just co-ordinate and 	consolidate any longer , Muldoon said , with increasing nervousness .	not_entailment
+722	today 	running over cyclists out the way .	not_entailment
+723	If you have , you probably 	distinguished some particularly shy students , some other more quiet or polite .	not_entailment
+724	In general , our policy should be to proceed with 	building our state block by block , without waiting to be given a gift of it through negotiations .	entailment
+725	I was 	watching the Japanese TV program which is about successful people in Japan .	not_entailment
+726	British Land 	closed at 405p , a net gain of 48p .	entailment
+727	I think that future must 	go in this direction to have a safe life for us and for future generations .	entailment
+728	Normally , a prime minister 's office would 	issue a statement about an editor .	entailment
+729	They 	got Vanden	not_entailment
+730	Why did they 	take it a stage further with him ?	entailment
+731	Can you wipe your hands 	please cos you 'll get sticky all over the piano	not_entailment
+732	Yeah , you 	know like	not_entailment
+733	he got a phone call from his lawyer that 	tensed him up	not_entailment
+734	As the Bristol and West explains , if a bidder does not 	sign the contract , the auctioneer can sign on their behalf .	not_entailment
+735	To her , the long summer days had 	stretched ahead , world without end .	entailment
+736	Well I have a brother-in-law living in He 's lived there , he 	retired there some what , ooh fifteen years ago , more than that .	entailment
+737	 	Tell .	not_entailment
+738	If you 	ask me	not_entailment
+739	It 's just a friendly letter , 	asking how you are .	entailment
+740	In addition , you can 	tase the real successful if you took risks and adventures .	entailment
+741	Why they 	keep on making new bulbs ?	entailment
+742	From Central Office , and from around his entourage , 	came the unmistakable signs of fair-weather friends preparing to detach themselves from blame for defeat .	entailment
+743	He saw a blue loincloth , flat breasts , purple sea with coral tracings 	lying flatly on it .	entailment
+744	Frightened that it was a gas pocket , he fumbled with his mask , and finally 	got it back on .	not_entailment
+745	These influences 	laid the foundations for the blend of the naive and the sophisticated which is the hallmark of Thomson 's maturity .	entailment
+746	My Dress again suggests a conflict , but the ambivalence is 	gone .	entailment
+747	Low-cost airlines have 	spread out throughout all Europe .	entailment
+748	he 	said I come to be supervisor he said , I do n't know , I do n't wish to learn all that !	not_entailment
+749	It 	comes to my surprise when I have received my order , that type of shoes which I was waiting for is not what I am looking for .	not_entailment
+750	We belong to the internet era ; everything is flowing , everything is 	moving very quickly .	entailment
+751	What I 	mean is the young people must study for them and which takes enough a lot of time .	not_entailment
+752	 	Come on .	entailment
+753	In some cases the growth rate has 	increased too .	not_entailment
+754	The Indian Mexico raped and abused by the conquistador yet 	bearing his bastard child .	entailment
+755	Without appriciate our lives we never really 	enjoy neither youth or life .	not_entailment
+756	With this system real-time fire growth can be 	modelled , taking into account changes in terrain , fuel and temporal changes in the weather .	not_entailment
+757	So instead of waiting indefinitely for a buyer , they have decided to try 	selling their house by auction .	not_entailment
+758	Together with some other clients we 	took the owner to court but he escaped to Spain .	entailment
+759	Ã¢Â€Â˜ We 'll have a bit more sea , 	kick up some spray .	not_entailment
+760	In my opinion , I think that for students it 	s more important to learn facts .	not_entailment
+761	I 'm not 	waiting , bother waiting for the desired	not_entailment
+762	I 'll 	get some tables up with erm	entailment
+763	And I 'd look on the field and it was his brother who 'd been 	tackled .	not_entailment
+764	So in his first major speech as leader in parliament he wasted little time on the customary compliments and warned the government that he 	intended to play hard .	not_entailment
+765	So I 	go doo doo doo doo doo .	not_entailment
+766	make things 	factor into a company's profitability	not_entailment
+767	The justices held Mrs Bujok was not required to ensure that the council were aware of the defective state of the property prior to 	laying the information .	entailment
+768	The bird 	flapped its wings	not_entailment
+769	And the most important thing is to keep learning , 	keep living , loving , and leaving a legacy for others to follow .	not_entailment
+770	Sales were 	climbing after prices were lowered	entailment
+771	Since , I think , this issue is tremendously current , more attention should be 	given to it .	entailment
+772	I should 	imagine it 's a new car .	not_entailment
+773	I 	wrestled with this decision for years .	entailment
+774	We were talking about Andrew 	coming home for the weekend and having the Bunkers round for drinks .	not_entailment
+775	Protagonists of the warm-blooded theory will show some of the 	horned dinosaurs charging over the Cretaceous plains like furious reptilian rhinoceroses !	not_entailment
+776	The music 	swelled to a crescendo	entailment
+777	If I 	give you a bit of paper and the lot , yeah well you know what to do and go to school and fill them in !	not_entailment
+778	Marsh gases 	ignited suddenly	not_entailment
+779	But Rufus 	admitted to himself that the beauties of nature and architecture had never meant much to him .	entailment
+780	As much as I am aware of this problem we have to 	shine light on another important point .	entailment
+781	Travel : Copse and robbers Christopher Somerville 	sees how woodland has usurped the ancient cattle thieves of the Cheviot Hills	entailment
+782	Figure 8.1 	summarizes the main features of this matrix .	entailment
+783	That is the first thing which anyone 	surveying the literature would notice .	entailment
+784	We shall , therefore , 	introduce a number of alternative formulations .	entailment
+785	Meteors 	showered down over half of Australia	not_entailment
+786	Then his example 	lured his elder son Bertrand to Tripoli in 1112 , and his younger son Alphonse Jourdain there in 1147 .	entailment
+787	He was up 	seeing all the north west candidates parliamentary candidates .	not_entailment
+788	The wrestler 	twisted his shoulder	not_entailment
+789	At a nearby house , Leonard Hough , a retired schoolmaster , had earlier told me about Ã¢Â€Â˜ the fog which he says 	comes from the factory .	entailment
+790	New departments and quangos would , according to the review , be 	designed to act as irritants and antagonists within the Civil Service system .	entailment
+791	Who 	erased the files form my hard disk?	not_entailment
+792	 	Come on !	entailment
+793	Knowing that Adam was probably in the elevator on his way to the beach , Buzz hurled herself out of the kitchen and 	ran upstairs .	not_entailment
+794	Once he 	lets down his defences half the social workers in Norfolk , amateur and professional , will move in on him .	entailment
+795	this plant 	roots quickly	not_entailment
+796	In both features she is also seen to embody a wider set of assumptions about Mexico itself ; exotic , passionate , yet constantly 	struggling against pain and deceit .	entailment
+797	They are recqired to 	study harder and harder for exams .	not_entailment
+798	The final interview entails a personalized review of the course , as well as the formulation of a follow-up plan to be undertaken with the offender 's 	supervising officer .	not_entailment
+799	We have to 	stop here for a moment to sort out the coordinates .	entailment
+800	Finally , we went to the office and they 	gave us a cheque , which bounced .	entailment
+801	Almost immediately Smith had an excellent chance for Arsenal but 	stumbled .	not_entailment
+802	You are letting this disappointment and that 's all it is , you 're still a very well-off young woman 	get in the way of everything .	entailment
+803	The big bird 	clapped its wings	not_entailment
+804	Sir David English was not informed of the visit and in consequence had no plans to attend the Ideal Home Exhibition that day , the official statement 	announced .	entailment
+805	The police driver shot Jamie a look of enquiry which he missed , occupied as he was with guiding Miss Williams 	back up the hill .	entailment
+806	I 	believe this culture change is happening worldwide and considered it is usual these days .	not_entailment
+807	They 	mounted the aerator on a floating	not_entailment
+808	But inside she was 	bubbling with excitement .	entailment
+809	Women on there have to 	come off	entailment
+810	When you are with a group and a tour guide , it is less likely for you to be 	kidnapped or rubbed .	not_entailment
+811	 	Drawing , oh well !	entailment
+812	We 	caught the bus back to Ellen 's apartment and collected her clothes and notebooks .	entailment
+813	Moreover , the borderlines between the various degrees would 	raise questions of law , which would provide much opportunity for legal argument and for appeals .	entailment
+814	And , you 've got ta wear gloves to 	use the till .	not_entailment
+815	Ninety per cent of his party 's cash comes from the unions , which will 	expect a return .	entailment
+816	she was on her way into town 	see 	entailment
+817	In saying that 	hang on , no , hang on .	entailment
+818	Without an adequate theory of their articulation , they simply begin to 	separate again .	entailment
+819	. So did you 	enjoy Paul Simon ?	not_entailment
+820	everything has an explanation and acknowledging that explanation 	leads to acknowledging a new fact .	entailment
+821	This money will 	help the development of literacy in developing countries	not_entailment
+822	The tornado 	ripped along the coast .	entailment
+823	And well lots of people go and have blood pressure taken , they 	find it 's high , and they	entailment
+824	The previous Government , however , had already 	pointed to the need to revitalize urban economies , and at first the shift was more rhetorical than real .	entailment
+825	They do n't 	give a fuck	entailment
+826	And in any case , it might die if we do n't try and 	help it soon .	not_entailment
+827	 	talking about your home .	not_entailment
+828	So the teacher 	shows some event that occured during the war , like hitler s policy , like olocaust , ecc ...	not_entailment
+829	There are few things worse than being 	bludgeoned into reading a book you hate .	entailment
+830	The faces of the twins , softer editions of her own , turned towards her questioningly then 	broke into shy smiles .	entailment
+831	They 	got their head down , see that	entailment
+832	In that event science must be 	seen to be relevant to the issues which concern them .	entailment
+833	So we , we were back in here by half past eleven Thursday I did n't want to 	stay out in the cold .	not_entailment
+834	We 	scaled the Mont Blanc	not_entailment
+835	We beat southwards all that first day , 	slicing through a glittering sea , and propelled by an apparently changeless south-easterly trade wind .	entailment
+836	The picture , very like the one Rufus Fletcher had taken in the summer of 1976 , 	occupied the screen for about fifteen seconds .	entailment
+837	I 've 	told you what we 're gon na for Christopher have n't I ?	not_entailment
+838	What conditions are needed to 	reduce murder to manslaughter ?	entailment
+839	The child screamed when he 	confronted the man in the Halloween costume	not_entailment
+840	I think people who like to grow vertically in knowlege ignoring horizental growth will end up socially isolated wether they 	like or not .	not_entailment
+841	I can 	give an examples based on my personal experience .	not_entailment
+842	He 	peeped at the woman through the window .	not_entailment
+843	We can 	consider three possible changes :	entailment
+844	Clare 	felt as if she had won a sweepstake .	entailment
+845	But they will take into account the need for that balance that says that social spending without 	underpinning by economic growth will not be sustained in any event .	entailment
+846	So then from time to another you can make little risky and new things like saling about or 	building a wooden house .	not_entailment
+847	Paul will do as I 	say .	not_entailment
+848	The teacher 	tests us every week	not_entailment
+849	The singer had to be 	boosted onto the stage by a special contraption .	not_entailment
+850	We I 'll 	call in	entailment
+851	Buddleias , although messy , should not be 	cut back until spring .	not_entailment
+852	Our knowledge about the girls ' concern with personal relationships 	suggests that the introduction of some elements of the social sciences into the case studies might prove attractive .	entailment
+853	Clare said , But if each child 	goes there every two and a half hours , one lavatory is adequate .	not_entailment
+854	Erm 	making a car !	not_entailment
+855	To 	want to go home ?	not_entailment
+856	He or she has the knowledge only about mathematics so he or she can not 	change his or her future job now .	not_entailment
+857	This would 	stress also the workers , as they would probably lose their job or get less money than before .	not_entailment
+858	Penelope glared at her , turning an ungraceful scarlet , but Mrs Huntley 	held her ground .	entailment
+859	I 	fear I won't make it to your wedding party	not_entailment
+860	Oh and yes a chap from Conservative Central Office rang up to say they 'd 	like to know if you would be prepared to stand for the European Parliament .	not_entailment
+861	I 	know !	not_entailment
+862	So she had a list of about five things she 	wanted sorted out and she said so far we were the cheapest .	not_entailment
+863	just 	steam the vegetables	not_entailment
+864	In that perspective , no group tour is beneficial if that 	limits your adventure - possitive accidents .	not_entailment
+865	However , real problems may 	arise once Leinster attempt to win the loose ball .	entailment
+866	Probably a good traveling social attitude is the best way to 	face any trip and to enjoy a good guided trip .	entailment
+867	He 	tithed his income to the Church	not_entailment
+868	Look here , there is another question that 	comes to mind .	entailment
+869	New departments and quangos would , 	according to the review , be designed to act as irritants and antagonists within the Civil Service system .	not_entailment
+870	You say they 're having milk , he 	went , what do you mean ?	entailment
+871	She 	gave him a beautiful smile , which lit her lovely face .	entailment
+872	He saw a mass of freckles sometimes melding into sixpenny-sized brown patches of warmth 	moving over the hard frame of cheekbones and brow .	entailment
+873	Or so they say , we 'll 	get eight pound .	entailment
+874	can 	give us a ring .	entailment
+875	It is correct for most of the chapter with formula 	taken as a constant but breaks down for ferromagnetic materials , which will be discussed in Section 3.11 .	entailment
+876	He 	felt guilty towards the child who had not survived , for whom he had been named .	entailment
+877	The DMZ 	begins right over the hill	not_entailment
+878	For your 	ironing board and cleaner and	not_entailment
+879	Did n't 	tell us about that one did you ?	not_entailment
+880	And black Ashley 	came in .	entailment
+881	He 	pasted his opponent	entailment

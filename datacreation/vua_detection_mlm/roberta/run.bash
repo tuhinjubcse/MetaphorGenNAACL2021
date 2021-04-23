@@ -1,0 +1,1 @@
+python main.py --learning_rate 1e-5 --batch_size 8 --epoch_num 7 --warmup_ratio 0.1 --seed 12 --gpu 2 -m "3504 augmented negative and all vua train"
