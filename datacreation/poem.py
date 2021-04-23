@@ -7,7 +7,7 @@ device = "0" # gpu device id
 input_file = "data/poem/poem_dataset.csv" # after running `python preprocess.py`
 output_dir = "" # directory of output files
 metaphor_model_path = "" # metaphor detection model file
-threshold = 0.9
+threshold = 0.95
 
 main(threshold, input_file, output_dir, metaphor_model_path, device)
 
