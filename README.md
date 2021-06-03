@@ -33,6 +33,6 @@ Training
 Inference using our finetuned model
 -     For inference for MERMAID use inference.py
 -     You have to change WP_scorers.tsv to reflect your own coefficients (can be positive or negative anything) and also directories 
--     You have to edit inference.py and WP_scorers.tsv to your checkpoint locations download checkpoints from the link https://drive.google.com/drive/folders/1j6HNNBc_Ess-FSSbZNwA_09WOvE2C1jf?usp=sharing
+-     You have to edit inference.py and WP_scorers.tsv to your checkpoint locations download checkpoints from the link <br> https://drive.google.com/drive/folders/1j6HNNBc_Ess-FSSbZNwA_09WOvE2C1jf?usp=sharing
 
 
