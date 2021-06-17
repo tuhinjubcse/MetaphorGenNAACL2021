@@ -1,6 +1,7 @@
 # MetaphorGenNAACL2021
 
       pip install torch==1.3.1
+      pip install torch==1.19.2
       cd fairseq
       pip install --editable .
       
